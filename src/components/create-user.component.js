@@ -52,6 +52,8 @@ export default class CreateUser extends Component {
                     <div className="form-group">
                         <label>Username: </label>
                         <input type="text" required className="form-control" value={this.state.username} onChange={this.onChangeUsername} />
+                        <br></br>
+                        <i>Username must be longer than 2 characters.</i>
                     </div>
 
                     <div className="form-group">
