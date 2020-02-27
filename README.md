@@ -30,7 +30,7 @@ After that, run `nodemon server` in backend folder.
 * Create new user
 * CRUD function for exercise logs
 
-## Live action
+## Live demo
 
 ![Exercise_Tracker GIF](https://media.giphy.com/media/RlrBKr6JN2YVwlL91A/giphy.gif)
 
