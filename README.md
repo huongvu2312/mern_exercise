@@ -1,4 +1,4 @@
-# MERN Exercise
+# MERN Exercise <a href="https://snyk.io/test/github/huongvu2312/mern_exercise?targetFile=package.json"><img src="https://snyk.io/test/github/huongvu2312/mern_exercise/badge.svg?targetFile=package.json" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/huongvu2312/mern_exercise?targetFile=package.json" style="max-width:100%;"></a>
 An exercise tracker application with MERN structure.
 
 ## Getting Started
