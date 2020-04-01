@@ -1,4 +1,4 @@
-# MERN Exercise
+# MERN Exercise <a href="https://snyk.io/test/github/huongvu2312/mern_exercise?targetFile=package.json"><img src="https://snyk.io/test/github/huongvu2312/mern_exercise/badge.svg?targetFile=package.json" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/huongvu2312/mern_exercise?targetFile=package.json" style="max-width:100%;"></a>
 An exercise tracker application with MERN structure.
 
 ## Getting Started
@@ -30,7 +30,7 @@ After that, run `nodemon server` in backend folder.
 * Create new user
 * CRUD function for exercise logs
 
-## Live action
+## Live demo
 
 ![Exercise_Tracker GIF](https://media.giphy.com/media/RlrBKr6JN2YVwlL91A/giphy.gif)
 
